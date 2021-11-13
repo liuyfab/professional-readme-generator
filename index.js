@@ -11,7 +11,7 @@ const questions = [
     { type: "input", message: "Please enter the usage information:", name: "usage" },
     { type: "input", message: "Please enter the test cases:", name: "tests" },
     { type: "input", message: "Please enter GitHub username:", name: "username" },
-    { type: "list", message: "Please select a licence", name: "license",choices: ['None',  'Apache 2.0', 'GNU GPL v2', 'GNU GPL v3', 'MIT','Mozilla 2.0', ] },
+    { type: "list", message: "Please select a licence", name: "license",choices: ['N/A', 'GPLv3', 'GPL', 'MIT',] },
 ]
 
 // Create a function to write README file
