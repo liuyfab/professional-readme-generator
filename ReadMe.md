@@ -3,7 +3,7 @@
   # This project prompts for information that belongs in a a project readme, and outputs the corresponding README.md file. The README includes the following sections: project title, project description, table of contents, installation instructions, usage instructions, license information.
   # screenshot
   ![Landing Page](https://github.com/liuyfab/professional-readme-generator/blob/main/screenshot/Screenshot.png?raw=true)
-  # walkthrough vedio link
+  # walkthrough video link
   https://youtu.be/WhFt6FrIioQ
 ## Content
 * [Installation](#installation)
