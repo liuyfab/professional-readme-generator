@@ -18,9 +18,9 @@ function renderLicenseBadge(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+## Description
   # ${data.description}
-  This is my heading
-  # Content
+## Content
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -30,6 +30,7 @@ function generateMarkdown(data) {
   # ${data.usage}
 ## Tests
   # ${data.tests}
+## Username
   # ${data.username}
 ## License
   # ${data.license}
